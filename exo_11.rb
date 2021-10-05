@@ -10,3 +10,4 @@ age_ask_string.times do |age_ask_string|
     age_integer = age_integer - 1
     
 end
+
