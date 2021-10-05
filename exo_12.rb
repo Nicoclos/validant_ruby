@@ -1,5 +1,3 @@
-# va faire la même chose, sauf que si X et Y sont égaux, 
-#il dira "Il y a n ans, tu avais la moitié de l'âge que tu as aujourd'hui".
 age_ask_string = "Salut ! Quel âge as-tu ?"
 puts age_ask_string
 age_ask_string = gets.chomp.to_i 
