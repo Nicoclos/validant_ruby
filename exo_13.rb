@@ -1,6 +1,7 @@
-emails = 01
-
-50.times do
-    puts "jean.dupont.#{emails}@email.fr"
-    emails += 1
+array= []
+i=0
+while i <=50 do 
+    array[i] ="\"jordancreyleman#{i}@gmail.com\""   
+    i +=1
 end
+puts array 
