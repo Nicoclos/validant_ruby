@@ -1,4 +1,4 @@
-count_ask_string = "Combien de répétitions ?"
+count_ask_string = "Jusq'où compte-t-on ?"
 puts count_ask_string
 count_ask_string = gets.chomp.to_i 
 
